@@ -33,7 +33,7 @@ include_once("conn.php");
                             <div class="col-xl-3 col-md-6">
                                 <div class="card bg-primary text-white mb-4">
                                     <div class="card-body">Teachers <?php
-                                        $query = "SELECT COUNT(*) AS `count` FROM `course`";
+                                        $query = "SELECT COUNT(*) AS `count` FROM `teachers`";
                                           $result = mysqli_query($conn,$query);
                                           $row = mysqli_fetch_assoc($result);
                                          echo $count = $row['count'];

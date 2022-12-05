@@ -25,7 +25,7 @@
                                 <li class="breadcrumb-ite00m active">Teacher</li>
                             </ol>
                             <br> 
-                            <button class=" btn btn-success">Add New</button>
+                            <a href="addteacher.php"> <button class=" btn btn-success">   Add New</button></a>
                            <br><br> <br>
                                         <!-- table start     -->
 

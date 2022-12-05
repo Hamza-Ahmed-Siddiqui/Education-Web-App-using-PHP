@@ -29,7 +29,7 @@
                             <li class="breadcrumb-item active">Courses</li>
                         </ol>
  
-                <a href="#">
+                <a href="addcourses.php ">
             <button class="btn btn-success mb-5">Add New</button>
                 </a>
  

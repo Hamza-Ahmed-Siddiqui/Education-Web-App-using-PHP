@@ -34,7 +34,7 @@ include_once("conn.php");
                         </ol>
  
                 <a href="#">
-            <button class="btn btn-success mb-5">Add New</button>
+             <a href="addstudents.php"> <button class="btn btn-success mb-5">Add New</button></a>
                 </a>
  
                             <div class="card mb-4">

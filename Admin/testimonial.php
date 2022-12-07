@@ -19,6 +19,8 @@ include_once("conn.php");
     </head>
  
     <body class="sb-nav-fixed">
+
+    
         <div>
         <?php
  
@@ -34,7 +36,7 @@ include_once("conn.php");
                             <li class="breadcrumb-item active">Testimonial</li>
                         </ol>
  
-                <a href="#">
+                <a href="addtestimonial.php">
             <button class="btn btn-success mb-5">Add New</button>
                 </a>
  
